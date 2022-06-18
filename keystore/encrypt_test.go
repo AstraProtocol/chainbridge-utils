@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto/secp256k1"
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto/sr25519"
+	"github.com/AstraProtocol/chainbridge-utils/crypto/secp256k1"
+	"github.com/AstraProtocol/chainbridge-utils/crypto/sr25519"
 )
 
 func TestEncryptAndDecrypt(t *testing.T) {

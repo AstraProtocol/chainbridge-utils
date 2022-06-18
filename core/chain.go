@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/Cerebellum-Network/chainbridge-utils/metrics/types"
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	metrics "github.com/AstraProtocol/chainbridge-utils/metrics/types"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 )
 
 type Chain interface {

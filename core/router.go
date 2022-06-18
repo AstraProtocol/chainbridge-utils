@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 	log "github.com/ChainSafe/log15"
 )
 

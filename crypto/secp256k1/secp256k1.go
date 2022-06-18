@@ -6,7 +6,7 @@ package secp256k1
 import (
 	"crypto/ecdsa"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto"
+	"github.com/AstraProtocol/chainbridge-utils/crypto"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 

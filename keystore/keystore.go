@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto"
+	"github.com/AstraProtocol/chainbridge-utils/crypto"
 )
 
 const EnvPassword = "KEYSTORE_PASSWORD"

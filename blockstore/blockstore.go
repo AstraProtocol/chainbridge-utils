@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 )
 
 const PathPostfix = ".chainbridge/blockstore"

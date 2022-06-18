@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 	"github.com/ChainSafe/log15"
 )
 

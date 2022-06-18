@@ -10,9 +10,9 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto"
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto/secp256k1"
-	"github.com/Cerebellum-Network/chainbridge-utils/crypto/sr25519"
+	"github.com/AstraProtocol/chainbridge-utils/crypto"
+	"github.com/AstraProtocol/chainbridge-utils/crypto/secp256k1"
+	"github.com/AstraProtocol/chainbridge-utils/crypto/sr25519"
 )
 
 // Decrypt uses AES to decrypt ciphertext with the symmetric key deterministically created from `password`

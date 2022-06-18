@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/core"
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	"github.com/AstraProtocol/chainbridge-utils/core"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 	log "github.com/ChainSafe/log15"
 )
 

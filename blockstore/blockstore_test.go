@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Cerebellum-Network/chainbridge-utils/keystore"
-	"github.com/Cerebellum-Network/chainbridge-utils/msg"
+	"github.com/AstraProtocol/chainbridge-utils/keystore"
+	"github.com/AstraProtocol/chainbridge-utils/msg"
 )
 
 func TestSaveAndLoad(t *testing.T) {
